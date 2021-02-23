@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture76_Overload", "Lecture76_Overload\Lecture76_Overload.csproj", "{DA88A370-425B-4998-B360-547D3BD11102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA88A370-425B-4998-B360-547D3BD11102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA88A370-425B-4998-B360-547D3BD11102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA88A370-425B-4998-B360-547D3BD11102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA88A370-425B-4998-B360-547D3BD11102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {993BF81F-175B-4690-B8B0-90E739182398}
+	EndGlobalSection
+EndGlobal
